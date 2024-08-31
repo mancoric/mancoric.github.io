@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mancoric.github.io/sitemap.html.gz
+Sitemap: https://mancoric.github.io/app/sitemap.html.gz
+Sitemap: https://mancoric.github.io/assets/sitemap.html.gz
+Sitemap: https://mancoric.github.io/css/sitemap.html.gz
+Sitemap: https://mancoric.github.io/includes/sitemap.html.gz
+Sitemap: https://mancoric.github.io/item/sitemap.html.gz
+Sitemap: https://mancoric.github.io/src/sitemap.html.gz
